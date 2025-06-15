@@ -1,5 +1,6 @@
 # Guess-game
 A fun guessing game in python
+
 import random
 
 secret_no = random.randint(1, 20)
