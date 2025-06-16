@@ -1,24 +1,5 @@
+Guessing -game
 
 
-import random
 
-secret_no = random.randint(1, 20)
-
-attempts = 0
-
-print( " Guess the no (between 1 to 20) " )
-
-while True:
-    guess = int( input("Enter your no:"))
-    attempts += 1 
-        	 	
-    if guess > secret_no:
-          print( " Too high! Try again. " )
-        	 		
-    elif guess < secret_no:
-        	  print( " Too low! Try again " )
-        	 		
-    else:
-        	 		print( "  Congratulation !!!! You guessed the right no. in " , attempts , " attempts " )
-        	 		break
-	
+ 
