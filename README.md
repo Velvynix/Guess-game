@@ -1,4 +1,6 @@
-Guessing -game
+       Guessing-game
+
+A fun guessing game in python.
 
 
 
