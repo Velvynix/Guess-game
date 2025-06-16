@@ -1,7 +1,7 @@
        Guessing-game
 
 A fun guessing game in python.
-Author- Tanisha 
+Author- Tanisha <br>
 jjkk
 
 
